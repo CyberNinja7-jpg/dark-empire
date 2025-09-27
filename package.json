@@ -1,0 +1,15 @@
+{
+  "name": "rahl-xmd",
+  "version": "1.0.0",
+  "description": "Rahl XMD - A simple WhatsApp bot using Baileys",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "qrcode-terminal": "^0.12.0",
+    "@hapi/boom": "^10.0.1"
+  }
+}
